@@ -30,7 +30,7 @@ def ItemFreq():
         print(key.capitalize(), ":", items[key])
 
     # close the file
-    file.close()
+    file.close() 
 
 
 
